@@ -1,0 +1,3 @@
+[submodule "themes/landscape-agileforce"]
+	path = themes/landscape-agileforce
+	url = git@github.com:agileforce/hexo-theme-landscape-agileforce.git
