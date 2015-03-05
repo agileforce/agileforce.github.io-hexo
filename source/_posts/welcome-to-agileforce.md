@@ -7,6 +7,8 @@ The Salesforce platform itstelf is developed in an agile mannor by the teams at 
 
 This site will be a mixture of articles, tutorials and workshops to help you on your journey with the Salesforce platform.  To start with, here are several workshops that help you gain practical experience with the Salesforce platform
 
+<!-- more -->
+
 ## Workshops
 
 * [Salesforce Trailhead](https://developer.salesforce.com/trailhead) - a range of workshops with challenges and a chance to earn badges
