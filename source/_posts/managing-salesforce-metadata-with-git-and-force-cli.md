@@ -1,7 +1,7 @@
 title: Getting Started with Github for versioning Salesforce Metadata
 date: 2014-10-10 19:42:57
 tags:
-- salesforce
+- force
 - git
 ---
 

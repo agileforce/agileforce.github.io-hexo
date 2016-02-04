@@ -1,5 +1,9 @@
 title: Welcome to AgileForce
-date: 2014-09-03 01.00
+date: 2014-09-03 19:42:57
+tags:
+- workshops
+- force
+- lightning
 ---
 Welcome to the AgileForce website, a community site to help you learn how to create apps on the Salesforce platform using Agile principles and practices.
 
@@ -22,6 +26,8 @@ This site will be a mixture of articles, tutorials and workshops to help you on 
 * [Developer workshop](http://ccoenraets.github.io/salesforce-developer-workshop/) - clicking and coding a conference management application 
 
 * [Developer advanced workshop](http://ccoenraets.github.io/salesforce-developer-advanced/) - using JavaScript within Visualforce pages, OAuth, JavaScript remoting to Salesforce and Canvas to build a conference management app.
+
+* [Lightning components workshop](http://ccoenraets.github.io/getting-started-lightning-components/) - create components & custom events to communicate between them, using JavaScript & CSS libraries in components and integration with the Salesforce1 app
 
 * [Udacity: Intro to point & click development on Salesforce](https://www.udacity.com/course/ud162) - a complete and free course with video tutorials (select "Access free course material").
 

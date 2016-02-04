@@ -1,7 +1,7 @@
 title: Managing Metadata with Git and Force CLI
 date: 2014-10-11 09:25:09
 tags:
-- salesforce
+- force
 - git
 ---
 
