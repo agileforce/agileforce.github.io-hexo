@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://agileforce.co.uk
 root: /
-permalink: :year/:month/:title/
+permalink: :year/:month/:title.html
 permalink_defaults:
 
 # Directory
@@ -52,8 +52,8 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+date_format: D MMM YYYY
+time_format: H:mm
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -71,12 +71,14 @@ theme: landscape-agileforce
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy: 
-  type: github
+  type: git
   repo: git@github.com:agileforce/agileforce.github.io.git
   branch: master
+  message: "agileforce blog updated by Hexo deploy"
 
 ## RSS Feed - using https://github.com/hexojs/hexo-generator-feed
 feed:
     type: atom
     path: atom.xml
     limit: 100
+    

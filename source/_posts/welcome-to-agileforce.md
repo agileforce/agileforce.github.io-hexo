@@ -1,7 +1,7 @@
 title: Welcome to AgileForce
 date: 2014-09-03 19:42:57
+categories: workshops
 tags:
-- workshops
 - force
 - lightning
 ---
